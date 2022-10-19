@@ -195,6 +195,26 @@
             "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/zxzj.json"
         }, 
         {
+            "key":"素白白",
+            "name":"xBPQ┃素白白",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/subaibai.json"
+        },
+        {
+            "key":"cokemv",
+            "name":"xBPQ┃cokemv",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/cokemv.json"
+        },
+        {
             "key":"csp_XP_libvio",
             "name":"XPF┃LIBVIO",
             "type":3,
