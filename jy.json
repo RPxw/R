@@ -17,14 +17,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },{
-            "key":"csp_Bttoo",
-            "name":"爬虫┃两个BT",
-            "type":3,
-            "api":"csp_Bttoo",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"csp_hbys",
