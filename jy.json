@@ -66,6 +66,26 @@
             "filterable":1
         },
         {
+            "key":"爱看影视",
+            "name":"xBPQ┃爱看影视",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/%e7%88%b1%e7%9c%8b%e5%bd%b1%e8%a7%86.json"
+        },
+        {
+            "key":"在线之家",
+            "name":"xBPQ┃在线之家",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/zxzj.json"
+        },
+        {
             "key":"mtv_pc_芒果视频",
             "name":"官方┃芒果视频",
             "type":3,
@@ -215,6 +235,21 @@
             "name":"Json轮询",
             "type":2,
             "url":"Sequence"
+        },
+        {
+            "name":"10%聚合",
+            "type":1,
+            "url":"http://43.139.102.88:88/parse/de.php?url="
+        },
+        {
+            "name":"10%备用",
+            "type":1,
+            "url":"http://43.139.102.88:88/parse/de.php?type=2&url="
+        },
+        {
+            "name":"10%备用1",
+            "type":1,
+            "url":"http://43.139.102.88:88/jx/10.php?url="
         },
         {
             "name":"keyu",
