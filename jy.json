@@ -17,6 +17,33 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },{
+            "key":"csp_Bttoo",
+            "name":"爬虫┃两个BT",
+            "type":3,
+            "api":"csp_Bttoo",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"csp_hbys",
+            "name":"爬虫┃简影",
+            "type":3,
+            "api":"csp_JianYing",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
+        },
+        {
+            "key":"快看影视",
+            "name":"爬虫┃快看影视",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"py_CCTV",
@@ -102,7 +129,27 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/zxzj.json"
-        },        
+        }, 
+        {
+            "key":"csp_XP_libvio",
+            "name":"XPF┃LIBVIO",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/libvio.json"
+        }, 
+        {
+            "key":"csp_xpf_骚火电影",
+            "name":"XPF┃骚火电影",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1.json"
+        },      
         {
             "key":"csp_xb_appyy",
             "name":"新XB┃APP影院",
