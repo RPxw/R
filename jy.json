@@ -367,9 +367,9 @@
             "url":"http://43.139.102.88:88/parse/de.php?type=2&url="
         },
         {
-            "name":"10%备用1",
+            "name":"10%嗅探",
             "type":1,
-            "url":"http://43.139.102.88:88/jx/10.php?url="
+            "url":"http://43.139.102.88:88/parse/player.php?url="
         },
         {
             "name":"keyu",
